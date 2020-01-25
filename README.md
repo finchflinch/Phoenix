@@ -16,3 +16,22 @@ Rony Benny
 
 
 Prathamesh Patil
+
+Steps: 
+
+You will need XAMPP server to run the website.
+
+Python libraries (via pip):
+
+socialscan
+
+opencv-python
+
+opencv-contrib-python
+
+Pillow
+
+Beautiful Soup
+
+
+
