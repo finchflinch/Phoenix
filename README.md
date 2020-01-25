@@ -18,18 +18,14 @@ Rony Benny
 Prathamesh Patil
 
 # Steps: 
-1) Install XAMPP server to run the website.
 
+1) Install XAMPP server to run the website.
 2) Install Python libraries (via pip):
 
 socialscan     
-
 opencv-python
-
 opencv-contrib-python
-
 Pillow       
-
 Beautiful Soup
 
 
