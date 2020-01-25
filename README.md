@@ -33,7 +33,9 @@ Pillow
 Beautiful Soup
 
 3) Run face1.py for collecting the image dataset
+
    Run face2.py to train the dataset
+   
    Run face3.py to test results
 
 
